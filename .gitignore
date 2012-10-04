@@ -10,3 +10,9 @@
 *.lai
 *.la
 *.a
+/Debug
+/Release
+*.opensdf
+*.sdf
+*.suo
+*.user
