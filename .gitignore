@@ -16,3 +16,4 @@
 *.sdf
 *.suo
 *.user
+/ipch
