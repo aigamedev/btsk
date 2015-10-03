@@ -6,7 +6,7 @@
  * Credits:         Alex J. Champandard
  *****************************************************************************/
 
-#include <stdint.h>
+#include <cstdint>
 #include <vector>
 #include <limits>
 #include "Shared.h"
