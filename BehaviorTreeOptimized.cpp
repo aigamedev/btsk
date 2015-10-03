@@ -7,6 +7,7 @@
  *****************************************************************************/
 
 #include <cstdint>
+#include <cstddef>
 #include <vector>
 #include <limits>
 #include "Shared.h"
